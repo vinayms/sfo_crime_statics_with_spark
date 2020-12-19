@@ -13,11 +13,11 @@ Install requirements using the provided ./start.sh script. This needs to be done
 
 In the terminal, to install other packages that you think are necessary to complete the project, use conda install <package_name>. You may need to reinstall these packages every time you re-open the workspace, or anytime after you've refreshed, or woken up, or reset data, or used the "Get New Content" button in this workspace.
 
-## Consumer Output
-[https://github.com/vinayms/sfo_crime_statics_with_spark/blob/main/Sample_Kafka_Consumer_console_output.png]
+# Consumer Output
+![](https://github.com/vinayms/sfo_crime_statics_with_spark/blob/main/Sample_Kafka_Consumer_console_output.png)
 
-##Spark JOB Progress
-[https://github.com/vinayms/sfo_crime_statics_with_spark/blob/main/Progress_report_Spark_JOB.png]
+# Spark JOB Progress
+![](https://github.com/vinayms/sfo_crime_statics_with_spark/blob/main/Progress_report_Spark_JOB.png)
 
-##Spark JOB UI
-[https://github.com/vinayms/sfo_crime_statics_with_spark/blob/main/Spark_Streaming_UI.png]
+# Spark JOB UI
+![](https://github.com/vinayms/sfo_crime_statics_with_spark/blob/main/Spark_Streaming_UI.png)
